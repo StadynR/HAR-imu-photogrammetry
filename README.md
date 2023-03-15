@@ -14,7 +14,7 @@ The notebooks are divided according to the dataset they use and the HAR techniqu
 ## Credits
 
 - María Fernanda Trujillo
-- Stadyn Román
+- Stadyn Román Niemes
 - Ricardo Fonseca
 
 ## Citation
