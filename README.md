@@ -1,5 +1,5 @@
 # Human Action Recognition Using IMU and Photogrammetry Data
-This repository contains the data used in the paper ---, including the notebooks used for training and testing.
+This repository contains the data used in the paper **Accuracy Comparison of CNN, LSTM, and Transformer for Activity Recognition Using IMU and Visual Markers**, including the notebooks used for training and testing.
 
 ## Datasets
 
@@ -9,17 +9,28 @@ The datasets can be accessed by the following public Google Drive link: https://
 
 ## Notebooks
 
-The notebooks are divided according to the dataset they use and the HAR technique used (IMU or photogrammetry). Inside the Notebooks folder, there are 3 subfolders, corresponding to each dataset used, for clarity and ease of access.
+The notebooks are divided according to their dataset and the HAR technique (IMU or visual markers). Inside the Notebooks folder, there are 3 subfolders, corresponding to each dataset used, for clarity and ease of access.
 
 ## Credits
 
-- María Fernanda Trujillo
-- Stadyn Román Niemes
-- Ricardo Fonseca
+- María Fernanda Trujillo (Collection of the datasets)
+- Stadyn Román Niemes (Coding and creation of the notebooks)
+- Ricardo Fonseca (Technical help)
 
 ## Citation
 
-Paper available at:
+Paper available at: https://doi.org/10.1109/ACCESS.2023.3318563
 
 
-If you use our data, code or paper for your research, please include the appropiate citation in your article:
+If you use our data, code, or paper for your research, please include the appropriate citation in your article:
+```
+@ARTICLE{10261772,
+  author={Trujillo-Guerrero, María Fernanda and Román-Niemes, Stadyn and Jaén-Vargas, Milagros and Cadiz, Alfonso and Fonseca, Ricardo and Serrano-Olmedo, José Javier},
+  journal={IEEE Access}, 
+  title={Accuracy Comparison of CNN, LSTM, and Transformer for Activity Recognition Using IMU and Visual Markers}, 
+  year={2023},
+  volume={11},
+  number={},
+  pages={106650-106669},
+  doi={10.1109/ACCESS.2023.3318563}}
+```
