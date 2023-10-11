@@ -1,9 +1,0 @@
-@ARTICLE{10261772,
-  author={Trujillo-Guerrero, María Fernanda and Román-Niemes, Stadyn and Jaén-Vargas, Milagros and Cadiz, Alfonso and Fonseca, Ricardo and Serrano-Olmedo, José Javier},
-  journal={IEEE Access}, 
-  title={Accuracy Comparison of CNN, LSTM, and Transformer for Activity Recognition Using IMU and Visual Markers}, 
-  year={2023},
-  volume={11},
-  number={},
-  pages={106650-106669},
-  doi={10.1109/ACCESS.2023.3318563}}
