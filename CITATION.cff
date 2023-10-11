@@ -51,5 +51,6 @@ preferred-citation:
   start: 106650 # First page number
   end: 106669 # Last page number
   title: "Accuracy Comparison of CNN, LSTM, and Transformer for Activity Recognition Using IMU and Visual Markers"
+  issue: 1
   volume: 11
   year: 2023
